@@ -33,6 +33,7 @@ The project is broken down to the following tasks:
 
 ### Repository Structure
 The Jupyter notebook [`pymaceuticals.ipynb`](https://github.com/alyssahondrade/matplotlib-challenge/blob/main/pymaceuticals.ipynb) is contained in the root directory.
+
 `Resources` directory contains the datasets: [`Mouse_metadata.csv`](https://github.com/alyssahondrade/matplotlib-challenge/blob/main/Resources/Mouse_metadata.csv) and [`Study_results.csv`](https://github.com/alyssahondrade/matplotlib-challenge/blob/main/Resources/Study_results.csv)
 
 ### Dataset
