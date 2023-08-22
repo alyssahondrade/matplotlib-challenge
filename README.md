@@ -9,6 +9,12 @@ Github repository at: [https://github.com/alyssahondrade/matplotlib-challenge.gi
     2. [Repository Structure](https://github.com/alyssahondrade/matplotlib-challenge/blob/main/README.md#repository-structure)
     3. [Dataset](https://github.com/alyssahondrade/matplotlib-challenge/blob/main/README.md#dataset)
 2. [Approach](https://github.com/alyssahondrade/matplotlib-challenge/blob/main/README.md#approach)
+    1. [Prepare the data](https://github.com/alyssahondrade/matplotlib-challenge/blob/main/README.md#prepare-the-data)
+    2. [Generate summary statistics](https://github.com/alyssahondrade/matplotlib-challenge/blob/main/README.md#generate-summary-statistics)
+    3. [Create bar and pie charts](https://github.com/alyssahondrade/matplotlib-challenge/blob/main/README.md#create-bar-and-pie-charts)
+    4. [Calculate quartiles, find outliers, and create a box plot](https://github.com/alyssahondrade/matplotlib-challenge/blob/main/README.md#calculate-quartiles-find-outliers-and-create-a-box-plot)
+    5. [Create a line and scatter plot](https://github.com/alyssahondrade/matplotlib-challenge/blob/main/README.md#create-a-line-and-scatter-plot)
+    6. [Calculate correlation and regression](https://github.com/alyssahondrade/matplotlib-challenge/blob/main/README.md#calculate-correlation-and-regression)
 3. [References](https://github.com/alyssahondrade/matplotlib-challenge/blob/main/README.md#references)
 
 ## Introduction
