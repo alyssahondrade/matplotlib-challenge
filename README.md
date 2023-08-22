@@ -15,12 +15,31 @@ Github repository at: [https://github.com/alyssahondrade/matplotlib-challenge.gi
 ### Goal
 A new pharmaceutical company that specialises in anti-cancer medications has recently started screening for potential treatments for Squamous Cell Carcinoma (SCC). A recent animal study of the tumor development of 249 mice over 45 days has been generated to compare the performance of a few drugs of interest against the company's drug of interest, Capomulin.
 
-The goal of the task is to create a top-level summary of the results, with corresponding tables and figures, that compares the performance of Capomulin against other drugs of interest.
+The goal of the project is to create a top-level summary of the results, with corresponding tables and figures, that compares the performance of Capomulin against other drugs of interest.
+
+The project is broken down to the following tasks:
+1. Prepare the data
+2. Generate summary statistics
+3. Create bar and pie charts
+4. Calculate quartiles, find outliers, and create a box plot
+5. Create a line and scatter plot
+6. Calculate correlation and regression
 
 ### Repository Structure
 
 ### Dataset
 
 ## Approach
+### Prepare the data
+
+### Generate summary statistics
+
+### Create bar and pie charts
+
+### Calculate quartiles, find outliers, and create a box plot
+
+### Create a line and scatter plot
+
+### Calculate correlation and regression
 
 ## References
